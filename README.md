@@ -1,4 +1,4 @@
-# LINE Notify Alert
+# Notification When Server is ShutDown LINE Notify Alert
 
 ## Description
 This program is used to send notification messages via LINE Notify when the server is unreachable.
